@@ -1,1 +1,1 @@
-kotlinc -script script/JjRemotes.kts
+kotlinc -script src/desktopMain/kotlin/JjRemotes.kts
