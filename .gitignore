@@ -1,0 +1,32 @@
+# Gradle and build outputs
+.gradle/
+build/
+*/build/
+
+# Local configuration
+local.properties
+
+# IntelliJ / Android Studio
+.idea/
+*.iml
+*.ipr
+*.iws
+
+# Kotlin/Native
+.kotlin/
+*.kotlin_metadata
+
+# Android specific
+.cxx/
+.externalNativeBuild/
+captures/
+
+# Compose Desktop / general runtime artifacts
+*.jfr
+*.log
+
+# macOS finder files
+.DS_Store
+
+# iOS build products
+DerivedData/
